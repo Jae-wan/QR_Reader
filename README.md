@@ -23,6 +23,9 @@
 >		* Google ML Kit 활용하여 QR 데이터 인식 기능 구현
 >		* [Result Page] => QR코드 인식 결과 보여주기 페이지 구현
 >		* [Result Page] => 결과 확인 후 [돌아가기] 버튼 클릭하여 초기화면, 인식 모드로 돌아가기.
+>		
+>		* Manifest.xml => <uses-feature>를 사용해 H/W 및 S/W 기능 요구사항 명시
+>		* Manifest.xml => <uses-permission>를 사용해 앱 실행시 User가 승인해야 하는 권한 명시	
 
 >	* <b> 부가 기능 </b>
 >		* 추가중..
